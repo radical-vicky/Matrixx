@@ -37,7 +37,7 @@ include('includes/db.php');
                     <li><a href="modules/whatsapp-marketing.php">WhatsApp Marketing</a></li>
                     <li><a href="modules/reward-center.php">Reward Center</a></li>
                     <li><a href="#" class="btn-login" onclick="openLoginModal()">Login</a></li>
-                    <li><a href="#" class="btn-signup" onclick="openSignupModal()">Register</a></li>
+                    <li><a href="signup_process.php" class="btn-signup" onclick="openSignupModal()">Register</a></li>
                 </ul>
             </nav>
         </div>
